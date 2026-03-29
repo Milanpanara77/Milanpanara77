@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Milan Panara! 👋
 
-<!--
-**Milanpanara77/Milanpanara77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 🏫 **University:** B.Tech Student at **VIT Bhopal**
+- 🤖 **Branch:** Computer Science and Engineering (AI and Machine Learning)
+- 🚀 **Current Focus:** Python for AI/ML and exploring Digital Literacy
+- 🎯 **Goal:** To build smart software and grow as an AI developer
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Stack
+- **Language:** Python
+- **Tools:** GitHub, VS Code, Google Workspace, Kaggle
+- **Interests:** Machine Learning, Data Science, and Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- **LinkedIn:** (https://www.linkedin.com/in/Milan Panara)
+- **Location:** Gujarat, India 📍
