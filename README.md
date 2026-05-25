@@ -12,5 +12,5 @@
 - **Interests:** Machine Learning, Data Science, and Cybersecurity
 
 ### 📫 How to reach me
-- **LinkedIn:** (https://www.linkedin.com/in/Milan Panara)
+- **LinkedIn:** ((https://www.linkedin.com/in/milan-panara-29464a37a/))
 - **Location:** Gujarat, India 📍
